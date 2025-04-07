@@ -88,7 +88,7 @@ Trebuie implementată aplicația integral pentru termenul final al proiectului C
 // Linia este colorată în întregime. E la fel ca în cazul în care linia era albă, acest mod nu se contorizează ca folosire de culori.
 ```
 
-✅ $${\color{darkgray}4. \space \color{lightblue}Kiwi \color{darkgray}- \color{lightgreen}0.68\color{darkgray}eur \space \(\color{orange}7 \color{darkgray}pieces\)}$$<br/>
+✅ $${\color{darkgray}4. \space \color{lightblue}Kiwi \color{darkgray}- \color{lightgreen}1.05\color{darkgray}RON \space \(\color{orange}7 \color{darkgray}bucăți\)}$$<br/>
 ```cpp
 // Doar elementele importante sunt colorate: numele, prețul și cantitatea produsului
 ```
